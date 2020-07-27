@@ -1,3 +1,3 @@
 # e-Health-Software-solution
-
-This is just some random shit, cos i haven't work on github in a while
+Run with the internet cos i used bootstrap
+Also, i'm yet to sort out the navigation bar when screen sets to min: 960px to show off the list
